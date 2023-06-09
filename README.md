@@ -18,8 +18,9 @@ One of my goals is becoming in a fullStack programmer and land a job in a big co
 | grep | Filter the document we are looking for through a word or letter received | 
 | cat | Print the content save in the archive | 
 
-## Alias Section
+## Alias Section (MoreUsed)
 
-1. **alias Findd = "ls ~/ | grep $1"**
-2. **alias cl = "clear"**
-3. **alias rm = "trash"**
+```zsh
+alias Findd = 'ls ~/ | grep $1'  'cl = "clear" '  'rm = "trash" '
+```
+
