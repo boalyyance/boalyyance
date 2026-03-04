@@ -17,7 +17,7 @@ Skills demonstrated:
 - Compliance analysis
 - Documentation & reporting
 
-[View Project] 
+[View Project] https://github.com/boalyyance/security-audit-project
 
 ---
 
