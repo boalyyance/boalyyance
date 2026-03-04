@@ -40,4 +40,4 @@ Skills demonstrated:
 ---
 
 ## 📫 Contact
-- LinkedIn: [Tu LinkedIn]
+- LinkedIn: www.linkedin.com/in/boaly-yance-a4214727a
