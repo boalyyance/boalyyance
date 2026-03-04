@@ -1,26 +1,43 @@
-# Hello, I'm Boaly Yance
-## I help to solve problems related with the **Data Analysis** field giving solutions that can be used for **decision making**
+# Hi, I'm Boaly Yance
 
-### I'm a System Enginieer from *Venezuela* living in *United States*
+Aspiring SOC Analyst currently completing the Google Cybersecurity Professional Certificate.  
+Building hands-on experience in security monitoring, risk assessment, and incident analysis.
 
-## *Goals*
+---
 
-One of my goals is becoming in a fullStack programmer and land a job in a big company and start to hiking until achieve a good range and helps others to improve and give the best from themselves.
+## 🔐 Cybersecurity Projects
 
-# Markdown List 
-## *Most usefull commands*
+### Internal Security Audit – Botium Toys (Simulated)
+Conducted a simulated internal IT audit aligned with NIST CSF.  
+Evaluated security controls, identified vulnerabilities, and proposed remediation strategies.
 
-| Command | Description |
-| ------- | ----------- |
-| clear | It keeps clean the termianal |
-| mv | Helps to move or rename a document |
-| ls | It let we know which documents are inside of a field |
-| grep | Filter the document we are looking for through a word or letter received | 
-| cat | Print the content save in the archive | 
+Skills demonstrated:
+- Risk assessment
+- Security control evaluation
+- Compliance analysis
+- Documentation & reporting
 
-## Alias Section (MoreUsed)
+[View Project] 
 
-```zsh
-alias Findd = 'ls ~/ | grep $1'  'cl = "clear" '  'rm = "trash" '
-```
+---
 
+## 🛠 Technical Skills
+- SIEM fundamentals
+- Log analysis
+- NIST CSF framework
+- Network security basics
+- Access control & least privilege
+- Incident response fundamentals
+- Linux command line basics
+
+---
+
+## 🎯 Currently Building
+- Hands-on SIEM lab
+- Network traffic analysis (Wireshark)
+- Threat detection & log investigation
+
+---
+
+## 📫 Contact
+- LinkedIn: [Tu LinkedIn]
